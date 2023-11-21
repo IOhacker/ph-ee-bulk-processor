@@ -1,5 +1,4 @@
 #Auto-Trigger
-
 ## SSL Configuration
 ```yaml
 server:
